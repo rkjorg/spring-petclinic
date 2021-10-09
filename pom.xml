@@ -19,8 +19,7 @@
         <url>https://github.com/rkjorg/spring-petclinic.git</url>
         <connection>scm:git:https://github.com/rkjorg/spring-petclinic.git</connection>
         <developerConnection>scm:git:https://github.com/rkjorg/spring-petclinic.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
+     </scm>
 
   <properties>
 
